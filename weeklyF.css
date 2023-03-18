@@ -1,0 +1,84 @@
+.sticky0{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(37, 55, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 10px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+.sticky1{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(92, 106, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 210px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+.sticky2{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(117, 156, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 410px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+.sticky3{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(167, 198, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 610px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+.sticky4{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(189, 205, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 810px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+
+.sticky5{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(229, 250, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 1010px;
+    border: 2px solid rgb(109, 113, 113);
+}
+
+.sticky6{
+    position: sticky;
+    top: 0;
+    height: 500px;
+    width: 200px;
+    padding: 10px;
+    background-color:rgba(255, 255, 255, 0.58);
+    margin-top: 25px;
+    margin-left: 1210px;
+    border: 2px solid rgb(255, 255, 255);
+}
